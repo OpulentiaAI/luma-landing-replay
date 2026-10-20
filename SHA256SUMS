@@ -1,0 +1,16 @@
+3687455b7a740a0a99f51e2688618feca39a920fcec5b9124fab19ce0ce5c579  ./CONTEXT.md
+5d282f721fc13b9bcd0fa2121f8934587b0fc8ae897dabe9a56b491879ce0bc8  ./INSTRUCTIONS.md
+5d282f721fc13b9bcd0fa2121f8934587b0fc8ae897dabe9a56b491879ce0bc8  ./README.md
+122a589089c165c30ef170198af544f93cd9f61799d7e169450ed9747ecb0e37  ./evidence/build-report.json
+31659144de15280c6781414d8870d41ec0b75167bc9c07458fe9d9f71878b614  ./evidence/hosted-magicpath.jpg
+4b041921e6ced6d7dbbc788e38e899c92c0bb4ec7d957ecc5451c6ae86b8c17d  ./index.html
+0be4dd2a6fab06cf884a66f634f9982ecc7d3281171fd3836137e790a94fc709  ./magicpath-source/src/App.tsx
+8b6b437e85ed2e71bd9a2cd859da7a825e55d650b2953ddceb255b42c1bb6acf  ./magicpath-source/src/components/generated/LumaLanding11.tsx
+037a05e50a1d3f90ebd729c5ca56a5b1379383decf680de93c6a27f712698ea4  ./magicpath-source/src/components/generated/lumaPage0.ts
+3ed8e2c5fed5948fd1166f8137ad8222389b0155c534e96a934e7751d023c03e  ./magicpath-source/src/components/generated/lumaPage1.ts
+5e620645c191bf6f7e4f9ab477ebef0a2a0de63dd792d24248b31b2c0b03e21b  ./magicpath-source/src/components/generated/lumaPage2.ts
+3af92f9f6b5e93767188381bda25e0b3e26d2885569cffb8b46ff6d8966b1860  ./magicpath-source/src/index.css
+23bb5f57984381394d1534f36217eae93e910c91b192152579773edcb015e16e  ./source/boot.js
+44aa1e20f96bcbfd7b5c624638a789a0070283fe3fd571ecece2ae886659cd89  ./source/build.cjs
+47c5c48ba6ca1396e3682e1808d9d19802c052ed9b63decd508b60ee6660bb7c  ./source/serve.cjs
+6d1bcd6b05799342def45b235ce28ac9b1d440fdd9ecea7abb9634dd72d28e36  ./source/test.cjs

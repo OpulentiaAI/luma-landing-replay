@@ -1,0 +1,2 @@
+const http=require('http'),fs=require('fs'),path=require('path');
+http.createServer((q,s)=>{const f=q.url.startsWith('/frame')?null:path.join(__dirname,'dist','offline.html');s.writeHead(200,{'Content-Type':'text/html; charset=utf-8','Cache-Control':'no-store'});if(!f){s.end('<body style="margin:0;background:#000"><iframe src="/" style="width:100vw;height:100vh;border:0"></iframe>');return}s.end(fs.readFileSync(f))}).listen(0,'127.0.0.1',function(){console.log('URL=http://127.0.0.1:'+this.address().port)});

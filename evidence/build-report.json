@@ -1,0 +1,36 @@
+{
+ "removed": {
+  "scripts": 45,
+  "stylesheets": 1,
+  "preloads": 1
+ },
+ "sizes": {
+  "jsonMB": 10.86,
+  "gzMB": 4.27,
+  "scripts": 116,
+  "images": 86,
+  "api": 4,
+  "order": 45,
+  "htmlMB": 6.68
+ },
+ "fonts": {
+  "pie.jpg": 135056,
+  "foliage.jpg": 62991,
+  "turkey-bg.jpg": 10138,
+  "snow-top.png": 13908,
+  "snow-bg.png": 47608,
+  "snow-left.png": 27382,
+  "snow-right.png": 33533,
+  "santa.jpg": 68847,
+  "sweater-top.png": 17409,
+  "sweater-middle.png": 69872,
+  "sweater-bottom.png": 15844,
+  "hanukkah.jpg": 78626,
+  "diwali-1.png": 5969,
+  "diwali-2.png": 11623,
+  "diwali-3.png": 15596
+ },
+ "privacy": [
+  "/luma\\.auth/i"
+ ]
+}
